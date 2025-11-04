@@ -22,8 +22,8 @@ tributec-ai/
 │   └── grafico_icms.png    # Gráfico salvo
 └── src/                    # Código fonte (futuro)
 
-> **"O futuro do Direito Tributário é preditivo — com IA."**  
-> Edcarlos, Advogado Tributarista com 20+ anos  
+> **"O futuro do Direito Tributário é preditivo — com IA.**  
+> **Karlos Neves, Advogado Tributarista com 20+ anos**
 
 ## Próximos Passos  
 - Semana 2: Monte Carlo + API Bacen (risco cambial)  
